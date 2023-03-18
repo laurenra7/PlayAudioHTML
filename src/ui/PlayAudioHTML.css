@@ -1,0 +1,14 @@
+/*
+Place your custom CSS here
+*/
+.widget-play-audio {
+    width: 304px;
+    height: 24px;
+    text-align: center;
+}
+
+.audio-player {
+    height: 32px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 16px;
+}
